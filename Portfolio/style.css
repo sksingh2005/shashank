@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background-image: url(images/b.jpg);
+    background-size: cover;
+    display: flex;
+}
+.navbar{
+    display: flex;
+    background-color: rgb(35, 9, 29);
+    width: 100%;
+
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    display: flex;
+}
+img{
+    box-sizing: inherit;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 12px;
+    display: flex;
+}
+ .navbar .img .box ul  li{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+}
+/* Sty;e 1  */
+
+.icon{
+    margin-top: 5em;
+    display: flex;
+    margin-left: 1220px;
+    border: 20px; 
+    border-color: aliceblue;
+    color: aliceblue;
+    justify-content: end;
+    font-size: 60px;
+    align-self: center;
+    flex-basis: 200px;
+}

@@ -1,0 +1,46 @@
+.box2{
+    color: aliceblue;
+    display: flex;
+    margin-right: 10px;
+    justify-content: space-around;
+}
+.Achievement{
+    font-family: 'Bitter', serif;
+    line-height: 1.5;
+    font-size: 22px;
+    align-self: end;
+    flex-basis: 200px;
+}
+.achieve{
+    height: 371px;
+    width: 592px;
+    margin-top: 41px;
+    border: 10px;
+    background-color: rgb(39, 33, 58);
+    border-color: rgb(166, 17, 17);
+    align-self: center;
+    border-radius: 2%;
+}
+.h2{
+    flex-direction: row;
+    align-self: end;
+}
+.box2 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    display: flex;
+    align-items: right;
+}
+.img2{
+    height: 386px;
+    width: 520px;
+    margin-top: 20px;
+    margin-left: 800px;
+    margin-bottom: 200px;
+    border-radius: 50%;
+
+}

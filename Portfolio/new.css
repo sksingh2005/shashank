@@ -1,0 +1,19 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}.navbar{
+    font-size: large;
+    margin: 0;
+    padding: 0;
+    background-color:black ;
+    color: wheat;
+    display: flex;
+}
+.class .class1{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.class1{
+    margin-right: 20px;
+}
